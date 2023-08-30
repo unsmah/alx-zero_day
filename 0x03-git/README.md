@@ -1,2 +1,2 @@
-My first1 readme
+My git project
 uns
